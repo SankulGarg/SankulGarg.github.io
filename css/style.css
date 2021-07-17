@@ -257,6 +257,13 @@ body {
   background-size: contain;
 }
 
+.leetcode {
+ background-image: url(../img/LeetCode_logo_black.png);
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
 /*------------------------------------*\
     $TYPOGRAPHY
 \*------------------------------------*/
